@@ -15,10 +15,10 @@ module.exports = function (hours, minutes, interval) {
 	if (rez_m > 59)
 	{
 		rez_h++;
-		rez_m -= 60;
+		rez_m %= 60;
 	}
 	if (rez_h > 23)
-		rez_h -= 24;
+		rez_h %= 24;
 
 	if (rez_h < 10)
 		rez_h = '0' + rez_h;
@@ -26,5 +26,3 @@ module.exports = function (hours, minutes, interval) {
 		rez_m = '0' + rez_m;
 	return (rez_h + ':' + rez_m);
 };
-
-// console.info(a(12, 30, 30));

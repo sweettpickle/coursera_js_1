@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2861b69-b9b0-4f34-8dec-3bee94220c29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../exercise1/.idea/exercise1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise2/.idea/exercise2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../exercise2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +21,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../week2/exercise3/public" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,6 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1571912090924</updated>
       <workItem from="1571912092291" duration="2215000" />
+      <workItem from="1572283269167" duration="30000" />
+      <workItem from="1574165075125" duration="1336000" />
     </task>
     <servers />
   </component>
@@ -67,7 +65,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
