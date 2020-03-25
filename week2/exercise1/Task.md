@@ -8,6 +8,7 @@ var getHashTags = require('./index.js');
 console.info(getHashTags('Прохожу курс на #coursera по #javascript'));
 
 // ["coursera", "javascript"]
+
 Условия
 
 Строка содержит только буквы русского и латинского алфавита, знак решетки и пробелы.
