@@ -20,3 +20,4 @@ console.info(getHashTags('Прохожу курс на #coursera по #javascrip
 Подсказки
 
 Для выполнения этого задания может понадобиться метод строки split.
+ 
